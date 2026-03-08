@@ -1,1 +1,1 @@
-# Nexus Home - Obsidian Plugin
+# Nexus Home Plugin - Obsidian
