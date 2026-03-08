@@ -49,17 +49,17 @@ Obsidian Desktop.
 1. **Clone to your development folder**:
 
 ```
-   cd ~/Antigravity && git clone [https://github.com/your-repo/nexus-home](https://github.com/your-repo/nexus-home)
+git clone [https://github.com/your-repo/nexus-home](https://github.com/your-repo/nexus-home)
 ```
 
 2. **Install the environment**:
 
 ```
-   npm install
+npm install
 ```
 
 3. **Compiling & Watching**:
-Keep this running while coding to see changes in real-time:
+   Keep this running while coding to see changes in real-time:
 
 ```
 npm run dev
