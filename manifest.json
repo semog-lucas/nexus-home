@@ -1,0 +1,10 @@
+{
+  "id": "nexus-home",
+  "name": "Nexus Home",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Your ultimate home dashboard for Obsidian, featuring Financial, English, and Dev widgets.",
+  "author": "Nexus",
+  "authorUrl": "https://github.com/nexus",
+  "isDesktopOnly": false
+}
