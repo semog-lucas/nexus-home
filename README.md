@@ -1,52 +1,64 @@
-Nexus Home: The Unified Dashboard for Obsidian
-Nexus Home is a professional-grade, grid-based dashboard designed to connect every aspect of your life—from software engineering and financial management to language learning—into one cohesive visual interface. Developed by Esmeralda Company, it transforms your Obsidian vault into a powerful "Personal OS".
+Para tornar o README.md do Nexus Home visualmente mais harmônico e profissional (digno de um repositório "Premium" no GitHub), vamos utilizar elementos de design como badges, emojis estratégicos e uma hierarquia visual mais clara.
+
+Aqui está a versão atualizada e refinada para o seu projeto na Esmeralda Company:
+
+💎 Nexus Home
+The Unified "Personal OS" for Obsidian
+
+Nexus Home is a professional-grade, grid-based dashboard designed to bridge the gap between software engineering, financial management, and international career growth. Developed by Esmeralda Company, it transforms your vault into a cohesive, visual "Second Brain" interface.
 
 🚀 Key Modules (Widgets)
 💰 Financial Intelligence
-Joint Budgeting: Integrated views to manage personal and shared expenses, helping you stay organized with your partner.
+Joint Budgeting: Integrated views to manage personal and shared expenses, keeping you and your partner (Natália) perfectly aligned.
 
 Investment Radar: Real-time visualization of assets, including Treasury bonds and Cryptocurrency markets.
 
-Sunday Review: A dedicated layout optimized for your weekly financial organization.
+Sunday Review: A dedicated layout optimized for your weekly financial deep-dives.
 
-🛠️ Developer HQ (Esmeralda Company)
-Tech Stack Monitoring: Quick access to documentation for Next.js, Docker, PostgreSQL, and PHP.
+🛠️ Developer HQ
+Tech Stack Monitoring: Instant access to documentation for Next.js, Docker, PostgreSQL, and PHP.
 
-Code Repository: Direct links to your layout.tsx, globals.css, and other critical project files.
+Code Repository: Direct shortcuts to critical project files like layout.tsx and globals.css.
 
-Sprint Tracking: Manage your programming tasks and brand development milestones.
+Sprint Tracking: Monitor development milestones for the Esmeralda Company brand.
 
 🌍 Global Career (English Progress)
-Professional Fluency: Tracks technical vocabulary and grammar needed for international work opportunities.
+Professional Fluency: Dedicated tracking for technical vocabulary and grammar for international roles.
 
-Daily Immersion: Visual progress bars to ensure you meet your daily study goals.
+Daily Immersion: Visual progress bars to maintain consistency in your daily study goals.
 
 🎨 Customization & Grid Engine
-Interactive Grids: Choose between fixed professional Presets (Developer, Financial, Minimal) or a Custom Mode where you can drag and drop widgets to build your own layout.
+Nexus Home offers two distinct ways to organize your workspace:
 
-Modular Architecture: Built with TypeScript for stability and performance within the Obsidian ecosystem.
+Professional Presets: Instant layouts for Developers, Financial Analysts, or Minimalists.
 
-🛠️ Development & Installation
+Custom Mode: A full drag-and-drop experience to build your own dashboard from scratch.
+
+Modular Tech: Built entirely with TypeScript for maximum stability within the Obsidian ecosystem.
+
+🛠️ Installation & Setup
 Prerequisites
-Node.js and npm installed on your system (Recommended: Ubuntu/Linux environment).
+Node.js & npm (Recommended: Ubuntu/Linux environment).
 
-Obsidian (Desktop version).
+Obsidian Desktop.
 
-Setup Instructions
-Clone the Project:
+Getting Started
+Clone to your development folder:
 
 Bash
 cd ~/Antigravity && git clone https://github.com/your-repo/nexus-home
-Install Dependencies:
+Install the environment:
 
 Bash
 npm install
-Build & Watch:
-Run the following command to compile the TypeScript code and watch for changes during development:
+Compiling & Watching:
+Keep this running while coding to see changes in real-time:
 
 Bash
 npm run dev
-Enable: Activate Nexus Home in the "Community Plugins" section of your Obsidian settings.
+Activation: Open Obsidian, go to Settings > Community Plugins and enable Nexus Home.
 
 🧠 Mission
-The mission of Nexus Home is to provide professional organization of money and time through a "Second Brain" philosophy, empowering users to achieve international career goals through technology.
+The mission of Nexus Home is to empower users to achieve international career goals through technology, providing professional organization of money and time through a "Second Brain" philosophy.
+
+Built with ❤️ by Esmeralda Company.
