@@ -5,7 +5,9 @@ The Unified "Personal OS" for Obsidian
 Nexus Home is a professional-grade, grid-based dashboard designed to bridge the gap between software engineering, financial management, and international career growth. Developed by Esmeralda Company, it transforms your vault into a cohesive, visual "Second Brain" interface.
 
 🚀 Key Modules (Widgets)
+
 💰 Financial Intelligence
+
 Joint Budgeting: Integrated views to manage personal and shared expenses, keeping you and your partner (Natália) perfectly aligned.
 
 Investment Radar: Real-time visualization of assets, including Treasury bonds and Cryptocurrency markets.
@@ -42,21 +44,25 @@ Node.js & npm (Recommended: Ubuntu/Linux environment).
 
 Obsidian Desktop.
 
-Getting Started
-Clone to your development folder:
+### Getting Started
 
-Bash
-cd ~/Antigravity && git clone https://github.com/your-repo/nexus-home
-Install the environment:
+1. **Clone to your development folder**:
+   ```bash
+   cd ~/Antigravity && git clone [https://github.com/your-repo/nexus-home](https://github.com/your-repo/nexus-home)
+```
 
-Bash
-npm install
-Compiling & Watching:
-Keep this running while coding to see changes in real-time:
+2. **Install the environment**:
+   ```bash
+   npm install
+```
 
-Bash
+3. **Compiling & Watching**:
+   Keep this running while coding to see changes in real-time:
+   ```bash
 npm run dev
-Activation: Open Obsidian, go to Settings > Community Plugins and enable Nexus Home.
+```
+
+4. **Activation**: Open Obsidian, go to Settings > Community Plugins and enable Nexus Home.
 
 ### 🧠 Mission
 
