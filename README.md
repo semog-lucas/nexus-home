@@ -1,8 +1,5 @@
-Para tornar o README.md do Nexus Home visualmente mais harmônico e profissional (digno de um repositório "Premium" no GitHub), vamos utilizar elementos de design como badges, emojis estratégicos e uma hierarquia visual mais clara.
+### 💎 Nexus Home
 
-Aqui está a versão atualizada e refinada para o seu projeto na Esmeralda Company:
-
-💎 Nexus Home
 The Unified "Personal OS" for Obsidian
 
 Nexus Home is a professional-grade, grid-based dashboard designed to bridge the gap between software engineering, financial management, and international career growth. Developed by Esmeralda Company, it transforms your vault into a cohesive, visual "Second Brain" interface.
@@ -22,12 +19,14 @@ Code Repository: Direct shortcuts to critical project files like layout.tsx and 
 
 Sprint Tracking: Monitor development milestones for the Esmeralda Company brand.
 
-🌍 Global Career (English Progress)
+### 🌍 Global Career (English Progress)
+
 Professional Fluency: Dedicated tracking for technical vocabulary and grammar for international roles.
 
 Daily Immersion: Visual progress bars to maintain consistency in your daily study goals.
 
-🎨 Customization & Grid Engine
+### 🎨 Customization & Grid Engine
+
 Nexus Home offers two distinct ways to organize your workspace:
 
 Professional Presets: Instant layouts for Developers, Financial Analysts, or Minimalists.
@@ -36,7 +35,8 @@ Custom Mode: A full drag-and-drop experience to build your own dashboard from sc
 
 Modular Tech: Built entirely with TypeScript for maximum stability within the Obsidian ecosystem.
 
-🛠️ Installation & Setup
+### 🛠️ Installation & Setup
+
 Prerequisites
 Node.js & npm (Recommended: Ubuntu/Linux environment).
 
@@ -58,7 +58,8 @@ Bash
 npm run dev
 Activation: Open Obsidian, go to Settings > Community Plugins and enable Nexus Home.
 
-🧠 Mission
+### 🧠 Mission
+
 The mission of Nexus Home is to empower users to achieve international career goals through technology, providing professional organization of money and time through a "Second Brain" philosophy.
 
 Built with ❤️ by Esmeralda Company.
