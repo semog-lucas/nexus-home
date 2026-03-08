@@ -1,9 +1,9 @@
 import { Plugin, WorkspaceLeaf } from 'obsidian';
 import { HomeView, VIEW_TYPE_HOME } from './views/HomeView';
-import { SettingsTab, DEFAULT_SETTINGS, NexusHomeSettings } from './views/SettingsTab';
+import { NexusSettingTab, DEFAULT_SETTINGS, NexusSettings } from './settings';
 
 export default class NexusHomePlugin extends Plugin {
-    settings!: NexusHomeSettings;
+    settings!: NexusSettings;
 
     async onload() {
         console.log('Loading Nexus Home plugin...');
@@ -31,7 +31,7 @@ export default class NexusHomePlugin extends Plugin {
         });
 
         // Add Settings Tab
-        this.addSettingTab(new SettingsTab(this.app, this));
+        this.addSettingTab(new NexusSettingTab(this.app, this));
     }
 
     onunload() {

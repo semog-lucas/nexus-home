@@ -1,9 +1,9 @@
 {
-  "id": "nexus-home",
+  "id": "nexus-home-esmeralda",
   "name": "Nexus Home",
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
-  "description": "Your ultimate home dashboard for Obsidian, featuring Financial, English, and Dev widgets.",
+  "description": "Dashboard profissional de grids para gestão financeira, de carreira (Dev) e progresso de inglês.",
   "author": "Nexus",
   "authorUrl": "https://github.com/nexus",
   "isDesktopOnly": false
